@@ -1,6 +1,6 @@
 ---
-description: ДОбщие принципы работы
-mode: All
+description: Общие принципы работы
+
 ---
 
 # QA Multi-Agent System — Global Rules
